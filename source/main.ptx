@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext>
+  <article xml:id="pretestbook" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>PreTeSt book</title>
+
+    <xi:include href="./section-1.ptx" />
+
+  </article>
+</pretext>

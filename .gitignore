@@ -1,0 +1,5 @@
+.vscode/
+generated-assets/
+logs/
+output/
+.error_schema.log

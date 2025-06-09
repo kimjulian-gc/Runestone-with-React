@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Section 1</title>
+
+  <p>
+    Minimal simple JS injection with canvas below:
+  </p>
+
+  <interactive xml:id="interactive-simple-js-script" platform="javascript" source="code/min-interactive/test.js">
+    <slate xml:id="simple-js-script" surface="canvas"/>
+  </interactive>
+
+  <p>
+    Minimal React implementation below:
+  </p>
+
+  <interactive xml:id="interactive-test-react-interactive" platform="javascript" source="code/min-react-interactive/dist/min-react-interactive.js">
+    <slate xml:id="react-slate" surface="html">
+      <div id="react-root" xmlns="http://www.w3.org/1999/xhtml"/>
+    </slate>
+  </interactive>
+
+</section>
